@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/file/d/17tyOKWfql8vRWkKaxxK_wtXyve2rU95w)
+![Header](https://github.com/natalia-savinova/natalia-savinova/blob/main/ns.JPG)
 
 ### I'm a Quality Assurance Engineer with 4 years of hands-on experience in Web Applications Testing
 
