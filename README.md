@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/file/d/17tyOKWfql8vRWkKaxxK_wtXyve2rU95w/view?usp=share_link)
+![Header](https://drive.google.com/file/d/17tyOKWfql8vRWkKaxxK_wtXyve2rU95w)
 
 ### I'm a Quality Assurance Engineer with 4 years of hands-on experience in Web Applications Testing
 
