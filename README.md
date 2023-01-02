@@ -3,24 +3,24 @@
 ### I'm a Quality Assurance Engineer with 4 years of hands-on experience in Web Applications Testing
 
 #### Tools
-![Jira](https://img.shields.io/badge/Jira-blue?style=flat&logo=Jira&logoColor=ffffff)
-![Confluence](https://img.shields.io/badge/Confluence-blue?style=flat&logo=Confluence&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-blue?style=flat&logo=Postman&logoColor=ffffff)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-blue)
-![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=ffffff)
-![Selenium](https://img.shields.io/badge/Selenium-blue?style=flat&logo=Selenium&logoColor=ffffff)
-![XPath](https://img.shields.io/badge/XPath-blue?style=flat&logo=XPath&logoColor=ffffff)
-![PG Admin](https://img.shields.io/badge/PGAdmin-blue)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=ffffff)
-![JSON](https://img.shields.io/badge/JSON-blue?style=flat&logo=JSON&logoColor=ffffff)
-![XML](https://img.shields.io/badge/XML-blue)
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=ffffff)
+![Confluence](https://img.shields.io/badge/Confluence-blue?style=for-the-badge&logo=confluence&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=postman&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=ffffff)
+![Selenium](https://img.shields.io/badge/Selenium-blue?style=for-the-badge&logo=selenium&logoColor=ffffff)
+![XPath](https://img.shields.io/badge/XPath-blue?style=for-the-badge&logo=xpath&logoColor=ffffff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
+![PG Admin](https://img.shields.io/badge/PG_Admin-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![JSON](https://img.shields.io/badge/JSON-blue?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-blue?style=for-the-badge)
 
 #### Languages
-![Russian](https://img.shields.io/badge/Russian-blue)
-![English](https://img.shields.io/badge/English-red)
+![Russian](https://img.shields.io/badge/Russian-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-red?style=for-the-badge)
 
 #### Certificates
-![ISTQB Foundation Level](https://img.shields.io/badge/ISTQB_Foundation_Level-blue)
+![ISTQB Foundation Level](https://img.shields.io/badge/ISTQB_Foundation_Level-blue?style=for-the-badge)
 
 #### Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/natalia--savinova/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/natalia--savinova/)
