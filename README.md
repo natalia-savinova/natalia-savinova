@@ -8,6 +8,7 @@
 ![Postman](https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=postman&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Selenium](https://img.shields.io/badge/Selenium-blue?style=for-the-badge&logo=selenium&logoColor=ffffff)
+![XPath](https://img.shields.io/badge/XPath-blue?style=for-the-badge)
 ![PG Admin](https://img.shields.io/badge/PG_Admin-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![JSON](https://img.shields.io/badge/JSON-blue?style=for-the-badge)
